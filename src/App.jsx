@@ -60,7 +60,7 @@ export default function App() {
           </button>
 
           <button onClick={() => setActiveContentIndex(3)}>
-            Imperative vs Declarative
+            React vs. Vanilla
           </button>
         </menu>
 
